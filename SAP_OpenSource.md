@@ -34,8 +34,14 @@ Overview of ABAP Open Source Projects: https://dotabap.org/
 - [abapGit](https://abapgit.org/)
 - [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
 - [open-abap](https://github.com/open-abap)
+  - [transpiler](https://github.com/abaplint/transpiler)
+  - [transpiler Playground](https://transpiler.abaplint.org/)
 - [abap-openapi](https://github.com/abap-openapi/abap-openapi)
 - [Exercism ABAP Track](https://exercism.org/tracks/abap) ([GitHub Repo](https://github.com/exercism/abap))
+- [FALV](https://github.com/fidley/falv)
+- [ABAP-Logger](https://github.com/ABAP-Logger/ABAP-Logger)
+- [ZThread](https://github.com/xinitrc86/zthread)
+- [ZToad](https://github.com/marianfoo/ztoad)
 - ADT Plugins
     - [ABAPQuickFix](https://github.com/fidley/ABAPQuickFix)
     - [Task Scanner for ABAP](https://marketplace.eclipse.org/content/task-scanner-abap-eclipse)
@@ -82,3 +88,10 @@ GitHub Organization https://github.com/ui5-community
 - [Core Data Services – Database Migrations](https://github.com/mikezaschka/cds-dbm)
 - [Azure AD and Azure AD B2C Custom-Defined Authentication for SAP CDS (CAP)](https://github.com/sapmentors/cds-azure-ad)
 - [Launchpad Plugin for SAP CAP-based projects](https://github.com/geert-janklaps/cds-launchpad-plugin)
+
+## BTP
+
+### Community Projects
+
+- [BTP Setup Automator](https://blogs.sap.com/2022/03/17/automating-the-setup-of-your-sap-btp-account-with-btp-setup-automator/)
+
