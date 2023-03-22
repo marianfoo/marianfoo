@@ -2,6 +2,22 @@
 
 E-Mail me at [marian@marianzeis.de](mailto:marian@marianzeis.de)  
 
+## DSAG Technologietage 2023 UI5 ExcelUpload 
+
+Präsentation 
+
+Live Demo
+https://excelupload.marianzeis.de/
+
+GitHub 
+https://github.com/marianfoo/ui5-cc-excelUpload
+
+Dokumentation 
+https://marianfoo.github.io/ui5-cc-excelUpload/
+
+Beispiel Apps
+https://github.com/marianfoo/ui5-cc-excelUpload/tree/main/examples/packages
+
 ## SAP Inside Track Belgium
 
 - [Presentation(PDF)](https://github.com/marianfoo/marianfoo/raw/main/SITBE%20Best%20of%20Open%20Source%20SAP%20Projects.pdf)
