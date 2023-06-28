@@ -36,7 +36,7 @@ Live Demo
 https://livedemo.spreadsheet-importer.com/
 
 GitHub 
-https://github.com/marianfoo/ui5-cc-excelUpload
+https://github.com/marianfoo/ui5-cc-spreadsheetimporter
 
 Dokumentation 
 https://spreadsheet-importer.com/
