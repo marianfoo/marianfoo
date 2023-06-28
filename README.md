@@ -33,13 +33,13 @@ Präsentation
 https://github.com/marianfoo/marianfoo/raw/main/DSAG-Technologietage_2023_UI5_Excel_Upload.pdf
 
 Live Demo
-https://excelupload.marianzeis.de/
+https://livedemo.spreadsheet-importer.com/
 
 GitHub 
 https://github.com/marianfoo/ui5-cc-excelUpload
 
 Dokumentation 
-https://marianfoo.github.io/ui5-cc-excelUpload/
+https://spreadsheet-importer.com/
 
 Beispiel Apps
 https://github.com/marianfoo/ui5-cc-excelUpload/tree/main/examples/packages
