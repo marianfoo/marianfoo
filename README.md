@@ -27,6 +27,10 @@
 
 ## Past Presentations Content
 
+### UI5con 2023
+
+Presentation
+
 ### DSAG Technologietage 2023 UI5 ExcelUpload 
 
 Präsentation 
@@ -42,7 +46,7 @@ Dokumentation
 https://spreadsheet-importer.com/
 
 Beispiel Apps
-https://github.com/marianfoo/ui5-cc-excelUpload/tree/main/examples/packages
+https://github.com/marianfoo/ui5-cc-spreadsheetimporter/tree/main/examples/packages
 
 Blog Post UI5 Exce Upload 
 https://blogs.sap.com/2023/02/17/simplifying-excel-upload-in-fiori-elements-the-open-source-and-easy-to-use-ui5-custom-control/
