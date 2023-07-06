@@ -30,6 +30,7 @@
 ### UI5con 2023 Excel Upload Component
 
 Presentation
+https://github.com/marianfoo/marianfoo/blob/main/2023_UI5con_excelupload_component.pdf
 
 Live Demo
 https://livedemo.spreadsheet-importer.com/
