@@ -27,14 +27,9 @@
 
 ## Past Presentations Content
 
-### UI5con 2023
+### UI5con 2023 Excel Upload Component
 
 Presentation
-
-### DSAG Technologietage 2023 UI5 ExcelUpload 
-
-Präsentation 
-https://github.com/marianfoo/marianfoo/raw/main/DSAG-Technologietage_2023_UI5_Excel_Upload.pdf
 
 Live Demo
 https://livedemo.spreadsheet-importer.com/
@@ -42,17 +37,29 @@ https://livedemo.spreadsheet-importer.com/
 GitHub 
 https://github.com/marianfoo/ui5-cc-spreadsheetimporter
 
-Dokumentation 
+Documentation 
 https://spreadsheet-importer.com/
 
-Beispiel Apps
+Example Apps
 https://github.com/marianfoo/ui5-cc-spreadsheetimporter/tree/main/examples/packages
 
-Blog Post UI5 Exce Upload 
-https://blogs.sap.com/2023/02/17/simplifying-excel-upload-in-fiori-elements-the-open-source-and-easy-to-use-ui5-custom-control/
+Landing Page
+https://spreadsheet-importer.com/
 
-Blog Post Multiversion Component 
-https://blogs.sap.com/2023/03/12/create-a-ui5-custom-library-with-versioning-using-a-multi-version-namespace/
+Blog Posts:
+[Load Data from a Excel File in UI5 and display the data in a Table with this Open Source Component - April 13, 2023 ](https://blogs.sap.com/2023/04/13/load-data-from-a-excel-file-in-ui5-and-display-the-data-in-a-table-with-this-open-source-component/)
+
+[Automating UI5 Testing with GitHub Actions and wdi5 in multiple scenarios - April 5, 2023](https://blogs.sap.com/2023/04/05/automating-ui5-testing-with-github-actions-and-wdi5-in-multiple-scenarios/) 
+
+[Create a UI5 custom library with versioning using a multi version namespace - March 12, 2023](https://blogs.sap.com/2023/03/12/create-a-ui5-custom-library-with-versioning-using-a-multi-version-namespace/)
+
+[Simplifying Excel Upload in Fiori Elements: The Open Source and Easy-to-Use UI5 Custom Control - February 17, 2023](https://blogs.sap.com/2023/02/17/simplifying-excel-upload-in-fiori-elements-the-open-source-and-easy-to-use-ui5-custom-control/)
+
+
+### DSAG Technologietage 2023 UI5 ExcelUpload 
+
+Präsentation 
+https://github.com/marianfoo/marianfoo/raw/main/DSAG-Technologietage_2023_UI5_Excel_Upload.pdf
 
 ### SAP Inside Track Belgium 2022
 
