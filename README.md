@@ -27,6 +27,11 @@
 
 ## Past Presentations Content
 
+### SAPInsider EMEA 2023 - Speed up your Development with Fiori Elements
+
+Presentation
+https://github.com/marianfoo/marianfoo/raw/main/ZeisMarian-SpeedUpWithFioriElements.pdf
+
 ### UI5con 2023 Excel Upload Component
 
 Presentation
