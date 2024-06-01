@@ -27,6 +27,40 @@
 
 ## Past Presentations Content
 
+### reCAP 2024
+
+#### CAP Community - Best of CAPJS
+
+Presentation
+https://github.com/marianfoo/marianfoo/raw/main/reCAP_2024_bestofcap.pdf
+
+Link
+https://bestofcapjs.org/#
+
+#### Seamless Integration: Crafting the Perfect CAP+UI5 Development Environment
+
+Presentation
+
+Link
+https://github.com/marianfoo/ui5con24-dev-env
+
+### UI5con 2024
+
+#### Seamless Integration: Crafting the Perfect UI5 Development Environment
+
+Presentation
+
+Link
+https://github.com/marianfoo/ui5con24-dev-env
+
+#### Results of a comprehensive survey on UI5 app usage in Production
+
+Presentation
+
+Raw Results
+https://github.com/marianfoo/marianfoo/raw/main/ui5con-2024.xlsx
+
+
 ### SAPInsider EMEA 2023 - Speed up your Development with Fiori Elements
 
 Presentation
