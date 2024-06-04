@@ -40,6 +40,7 @@ https://bestofcapjs.org/#
 #### Seamless Integration: Crafting the Perfect CAP+UI5 Development Environment
 
 Presentation
+https://github.com/marianfoo/marianfoo/raw/main/reCAP_2024_devenv.pdf
 
 Link
 https://github.com/marianfoo/ui5con24-dev-env
