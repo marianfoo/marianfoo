@@ -54,9 +54,10 @@ Presentation
 Link
 https://github.com/marianfoo/ui5con24-dev-env
 
-#### Results of a comprehensive survey on UI5 app usage in Production
+#### Results of a comprehensive survey on UI5 app usage in Production with @vobu (Volker Buzek)
 
 Presentation
+https://github.com/marianfoo/marianfoo/raw/main/ui5con-2024-survey.pdf
 
 Raw Results
 https://github.com/marianfoo/marianfoo/raw/main/ui5con-2024.xlsx
