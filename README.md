@@ -50,6 +50,8 @@ https://github.com/marianfoo/ui5con24-dev-env
 #### Seamless Integration: Crafting the Perfect UI5 Development Environment
 
 Presentation
+https://github.com/marianfoo/marianfoo/raw/main/2024_UI5con_dev.pdf
+
 
 Link
 https://github.com/marianfoo/ui5con24-dev-env
