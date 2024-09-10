@@ -27,6 +27,13 @@
 
 ## Past Presentations Content
 
+### DSAG Open Source Webinar
+
+#### UI5 Spreadsheet Importer
+
+Presentation
+https://github.com/marianfoo/marianfoo/DSAGOpenSourceUI5SpreadsheetImporter.pdf
+
 ### reCAP 2024
 
 #### CAP Community - Best of CAPJS
