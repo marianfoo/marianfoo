@@ -32,7 +32,7 @@
 #### UI5 Spreadsheet Importer
 
 Presentation
-https://github.com/marianfoo/marianfoo/DSAGOpenSourceUI5SpreadsheetImporter.pdf
+https://github.com/marianfoo/marianfoo/raw/main/DSAGOpenSourceUI5SpreadsheetImporter.pdf
 
 ### reCAP 2024
 
