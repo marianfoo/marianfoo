@@ -27,6 +27,13 @@
 
 ## Past Presentations Content
 
+### SIT Munich 24
+
+### UI5 Spreadsheet Importer
+
+Presentation
+https://github.com/marianfoo/marianfoo/raw/main/SITMUCUI5SpreadsheetImporter.pdf
+
 ### SIT Belgium 24
 
 ### UI5 Spreadsheet Importer
