@@ -27,12 +27,21 @@
 
 ## Past Presentations Content
 
+### SIT Belgium 24
+
+### UI5 Spreadsheet Importer
+
+Presentation
+https://github.com/marianfoo/marianfoo/raw/main/SITBelgium24UI5SpreadsheetImporter.pdf
+
+
 ### DSAG Open Source Webinar
 
 #### UI5 Spreadsheet Importer
 
 Presentation
 https://github.com/marianfoo/marianfoo/raw/main/DSAGOpenSourceUI5SpreadsheetImporter.pdf
+
 
 ### reCAP 2024
 
