@@ -27,6 +27,14 @@
 
 ## Past Presentations Content
 
+### DSAG Jahreskongress 2024
+
+Präsentation
+https://github.com/marianfoo/marianfoo/raw/main/DSAG-JK-2024-Umfrage.pdf
+
+Umfragedaten
+https://github.com/marianfoo/marianfoo/raw/main/umfrageergebnisse.csv
+
 ### SIT Munich 24
 
 ### UI5 Spreadsheet Importer
