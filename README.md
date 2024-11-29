@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Contact me!
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="20" height="20"> Follow me on twitter https://twitter.com/mianbsp
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/bluesky.svg" width="20" height="20"> Follow me on bluesky https://bsky.app/profile/marian.marianzeis.de
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"> Follow me on linkedin https://www.linkedin.com/in/marianzeis/
 
