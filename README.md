@@ -9,7 +9,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg" width="40" height="20"> Follow me on SAP Community https://people.sap.com/mariannnn
 
-:email: E-Mail me at [marian@marianzeis.de](mailto:marian@marianzeis.de)  
+:email: E-Mail me at [marian@zeis.de](mailto:marian@zeis.de)  
 
 ## Blog Posts
 
