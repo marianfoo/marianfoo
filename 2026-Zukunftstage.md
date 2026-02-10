@@ -14,3 +14,5 @@ https://github.com/marianfoo/abap-mcp-server
 https://github.com/marianfoo/mcp-sap-docs
 
 https://software-heroes.com/abap-feature-matrix
+
+https://community.sap.com/t5/artificial-intelligence-blogs-posts/bringing-ai-context-to-eclipse-adt-a-local-mcp-setup-guide/ba-p/14300669
