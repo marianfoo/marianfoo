@@ -13,6 +13,10 @@
 
 ## Blog Posts
 
+[My Blog](https://blog.zeis.de/) – ABAP, SAP, AI, UI5, and more
+
+### SAP Community
+
 [Load Data from a Excel File in UI5 and display the data in a Table with this Open Source Component - April 13, 2023 ](https://blogs.sap.com/2023/04/13/load-data-from-a-excel-file-in-ui5-and-display-the-data-in-a-table-with-this-open-source-component/)
 
 [Automating UI5 Testing with GitHub Actions and wdi5 in multiple scenarios - April 5, 2023](https://blogs.sap.com/2023/04/05/automating-ui5-testing-with-github-actions-and-wdi5-in-multiple-scenarios/) 
@@ -26,6 +30,21 @@
 [Best of UI5 – The best place to find packages for the UI5 ecosystem - May 23, 2022](https://blogs.sap.com/2022/05/23/best-of-ui5-the-best-place-to-find-packages-for-the-ui5-ecosystem/)
 
 ## Past Presentations Content
+
+### DSAG Zukunftstag 2026
+
+Presentation
+https://github.com/marianfoo/marianfoo/raw/main/DSAG-Zukunftstag26-ZeisMarian.pdf
+
+### SIT Munich 25
+
+Presentation
+https://github.com/marianfoo/marianfoo/raw/main/SITMUC25.pdf
+
+### SAP TechEd 2025
+
+Presentation
+https://github.com/marianfoo/marianfoo/raw/main/teched-2025.pdf
 
 ### DSAG Jahreskongress 2024
 
