@@ -8,13 +8,13 @@
 
 ## Contact me!
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/bluesky.svg" width="20" height="20"> Follow me on bluesky https://bsky.app/profile/marian.marianzeis.de
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/bluesky.svg" width="20" height="20"> Follow me on bluesky https://bsky.app/profile/marian.zeis.de
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"> Follow me on linkedin https://www.linkedin.com/in/marianzeis/
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" width="20" height="20"> Follow me on Mastodon https://saptodon.org/@Mianbsp
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg" width="40" height="20"> Follow me on SAP Community https://people.sap.com/mariannnn
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg" width="40" height="20"> Follow me on SAP Community https://profile.sap.com/u/Marian_Zeis
 
 :email: E-Mail me at [marian@zeis.de](mailto:marian@zeis.de)
 
