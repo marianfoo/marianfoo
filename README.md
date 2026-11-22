@@ -80,6 +80,10 @@
 
 - [Presentation (PDF)](https://github.com/marianfoo/marianfoo/raw/main/teched-2025.pdf)
 
+### SAP Fiori elements and tools roundtable, November 2024
+
+- [UI5 app usage survey with Volker Buzek (PDF)](slides/2024/fiori-roundtable-ui5-survey.pdf)
+
 ### DSAG Jahreskongress 2024
 
 - [Präsentation (PDF)](https://github.com/marianfoo/marianfoo/raw/main/DSAG-JK-2024-Umfrage.pdf)
