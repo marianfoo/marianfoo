@@ -57,6 +57,17 @@
 
 ## Past Presentations
 
+### 2026 conference slides
+
+- [DSAG Jahreskongress V097, 7 October (PDF)](slides/2026/dsag-jahreskongress-v097.pdf)
+- [SAP Inside Track Weinheim, 19 September (PDF)](slides/2026/sit-weinheim-mcp.pdf)
+- [SAP Inside Track Sydney, 4 September (PDF)](slides/2026/sit-sydney-mcp.pdf)
+- [DSAG AG UI-Technologien, 19 May (PDF)](slides/2026/dsag-ui-technologien-fiori-mcp.pdf)
+- [betterCode() ABAP, 29 April (PDF)](slides/2026/bettercode-abap-rap-annotations.pdf)
+- [DSAG Development webinar, 16 April (PDF)](slides/2026/dsag-development-fiori-rap-mcp.pdf)
+
+[Talks, recordings and session resources on zeis.de](https://zeis.de/history/)
+
 ### DSAG Zukunftstag 2026
 
 - [Presentation (PDF)](https://github.com/marianfoo/marianfoo/raw/main/DSAG-Zukunftstag26-ZeisMarian.pdf)
